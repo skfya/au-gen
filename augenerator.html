@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="augenerator.css">
+    <title> AU Generator </title>
+  </head>
+  <body>
+    <div>
+      <h1> AU Generator </h1>
+      <h2> Enter the names of the people in your ship and click submit to get an AU prompt! </h2>
+    </div>
+    <div>
+      Name of first person:
+      <br>
+      <input type="text" id="name1">
+      <br>
+      <br>
+      Name of second person:
+      <br>
+      <input type="text" id="name2">
+      <br>
+      <br>
+      [Optional] Name of third person:
+      <br>
+      <input type="text" id="name3">
+      <br>
+      <br>
+      <input type="submit" value="Submit" onclick="storeVariable()" id="button">
+      <br>
+      <br>
+    </div>
+    <div id="result">
+      <h3>Result:</h3>
+      <br>
+    </div>
+  </body>
+  <script src="augenerator.js"></script>
+</html>
