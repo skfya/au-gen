@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    padding: 10px;
+    background-color: #F6E0FE;
+}
+
+label {
+    padding: 10px;
+}
+
+input {
+    margin-left: 10px;
+}
+
+button {
+    cursor: pointer;
+}
+
+.bubble {
+    padding: 10px;
+    margin-top: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+    border-color: #DDA5F0;
+    background-color: #E9C3FC;
+}
+
+#logButton {
+    border-radius: 10px;
+    background-color: #F6E0FE;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding: 5px;
+}
+
+hr {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-color: #DDA5F0;
+    background-color: #DDA5F0;
+    color: #DDA5F0;
+}
+
+.icon {
+    cursor: pointer;
+}
