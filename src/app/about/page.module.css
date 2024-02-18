@@ -1,0 +1,13 @@
+.bubble {
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+    border-color: #DDA5F0;
+    background-color: #E9C3FC;
+}
